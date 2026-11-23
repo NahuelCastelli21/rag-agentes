@@ -1,0 +1,7 @@
+@"
+.venv/
+corpus.json
+__pycache__/
+.env
+chroma_db/
+"@ | Set-Content .gitignore
